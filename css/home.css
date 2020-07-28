@@ -1,0 +1,31 @@
+h1 {
+    color: silver;
+}
+nav li {
+    display: inline-block;
+    
+}
+.topper {
+    text-align: center;
+}
+body {
+    background-color: #6D00BF;
+    
+}
+a:link {
+    background-color: gray;
+    
+}
+a:visited {
+    background-color: red;
+    color: white;
+
+}
+
+nav a:hover {
+    background-color: black;
+    color: greenyellow;
+}
+nav a {
+    color: black;
+}
