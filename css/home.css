@@ -1,6 +1,4 @@
-body{
-    font-family: 'Shadows Into Light', cursive; 
-}
+
 a {
     color: #251F21;
     text-decoration: none;
@@ -41,7 +39,7 @@ header {
 
 }
 nav {
-    border-bottom: 2px solid #0D0D0D;
+    border-bottom: 2px solid #8C8A80;
     border-top: 2px solid #F2F2F2;
 }
 nav ul {
@@ -57,18 +55,20 @@ nav li {
 }
 nav a {
     text-decoration: none;
-    color: #F2F2F2;
+    color: black;
     display: block;
     padding: 0.5rem 1rem;
 }
 nav a:hover {
-    background-color: black;
+    background-color: #0D0D0D;
     color: #8C8A80;
 }
 
 body {
     background-color: #BFB5A8;
+    font-family: 'Shadows Into Light', cursive;
 }
 .leftheader img {
     border-radius: 180px;
+    border: 2px solid #8C8A80;
 }
