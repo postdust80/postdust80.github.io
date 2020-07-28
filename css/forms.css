@@ -80,6 +80,9 @@ input:not([type="radio"]):not([type="checkbox"]), textarea {
 	border: none;
 
 }
+iframe {
+	border-radius: 10px;
+}
 
 
 
