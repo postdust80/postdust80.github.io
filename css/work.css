@@ -22,8 +22,10 @@ body, html {
 
   .bar {
       height: 1600px;
-      background-color: #A9D387;
+      background: rgb(2,0,36);
+      background: linear-gradient(310deg, rgba(2,0,36,1) 0%, rgba(9,121,32,1) 33%, rgba(159,159,159,1) 100%); 
       font-size: 28px;
+      border: 2px solid black;
       
   }
 
